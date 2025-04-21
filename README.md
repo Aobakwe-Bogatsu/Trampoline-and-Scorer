@@ -99,7 +99,7 @@ Ensure the following:
 ![Scene Overview](scene.png)
 
 ### 🟢 Active Game View
-![active scene](active scene.png)
+[active scene](active scene.png)
 
 ---
 
