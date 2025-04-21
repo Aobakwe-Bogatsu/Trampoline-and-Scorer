@@ -99,7 +99,7 @@ Ensure the following:
 ![Scene Overview](scene.png)
 
 ### 🟢 Active Game View
-[active scene](active scene.png)
+![active scene](https://github.com/user-attachments/assets/c5b23971-4080-4aaf-b13f-549ede8e102b)
 
 ---
 
